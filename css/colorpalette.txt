@@ -1,0 +1,3 @@
+1. lightred = #da655f, neongreen = #9bf7e4, darkerneongreen = #65e1c7
+
+2. sky = #CAEBF2, carbon = #A9A9A9, watermelon = #FF3B3F, neutral = #EFEFEF, lightred= #da655f
